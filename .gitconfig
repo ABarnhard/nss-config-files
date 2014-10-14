@@ -1,0 +1,9 @@
+[alias]
+  st = status -s
+  lg = log --oneline --decorate --all --graph
+  br = branch -av
+  rt = remote -v
+
+[user]
+  email = admbarn@gmail.com
+  name = Adam Barnhard
